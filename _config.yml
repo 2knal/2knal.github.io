@@ -7,7 +7,6 @@ baseurl: ""
 email: kunal.sonawane@somaiya.edu
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
-# resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
     url: mailto:kunal.sonawane@somaiya.edu
