@@ -1,0 +1,18 @@
+languages:
+  - item: Python
+  - item: C
+  - item: HTML & CSS
+  - item: JavaScript 
+  - item: Java
+
+frameworks:
+  - item: React
+  # - item: Node
+  - item: Django
+
+tools:
+  - item: Bash
+  - item: Git & Github
+cs:
+  - item: Data Structures
+  - item: Algorithms

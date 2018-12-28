@@ -1,0 +1,29 @@
+{
+  "name": "2knal.github.io",
+  "version": "0.0.0",
+  "description": " A normal guy, with a knack for Computer Programming",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve",
+    "build": "gulp build"
+  },
+  "author": "Kunal Sonawane",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.24.7",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "3.10.0",
+    "gulp-eslint": "5.0.0",
+    "gulp-imagemin": "4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-serve": "^1.4.0",
+    "gulp-uglify": "3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2knal/2knal.github.io"
+  },
+  "homepage": "https://github.com/2knal/2knal.github.io"
+}
