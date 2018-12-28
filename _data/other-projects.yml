@@ -12,7 +12,7 @@
 - name: Korusuke Bot
   url: https://github.com/2knal/Java-Discord-Bot
   code: https://github.com/2knal/Java-Discord-Bot
-  description: A discord bot, made using JDA,certain APIs and Firebase for data logging.
+  description: A discord bot, made using JDA, certain APIs and Firebase for data logging.
   used:
     - thing: Java
     - thing: JDA
@@ -23,7 +23,7 @@
 - name: Somaiya Classroom
   url: https://github.com/arghyadeep99/Project-Somaiya-Classroom
   code: https://github.com/arghyadeep99/Project-Somaiya-Classroom
-  description: An interactive platform for both Professors and Students of K.J. Somaiya College of Engineering. The project is still under development.
+  description: An interactive platform for both Professors and Students of K.J. Somaiya College of Engineering to share various resources. The project is still under development.
   used:
     - thing: Java
     - thing: Android SDK
