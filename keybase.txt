@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/2knal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://2knal.github.io
+  * I am 2knal (https://keybase.io/2knal) on keybase.
+  * I have a public key with fingerprint F019 D30F FACC 1FFF 9F42  0B3B A3D7 7979 65CF 3AAD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203b001c67d1ff2743d47712046c894383dd1bc67fbcf1e9fcd4d671a45b21ffcd0a",
+      "fingerprint": "f019d30ffacc1fff9f420b3ba3d7797965cf3aad",
+      "host": "keybase.io",
+      "key_id": "a3d7797965cf3aad",
+      "kid": "01012736f0f223bd07a5f35af9d459ade765d23d92a9f10726bb427dd677c17e99380a",
+      "uid": "0cc0ddca7f469d13fab882a2ab4d6819",
+      "username": "2knal"
+    },
+    "service": {
+      "hostname": "2knal.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1547831440,
+  "expire_in": 157680000,
+  "prev": "f37b8831bdde34a33b6d2f9ab916cf8edcb7c8ed496e48b03721723ec338754d",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJ/UBVVGH1EWhImkCCTCMziYA4P2N27++4uKQ5aoUxAOIMBks/dvXdh
+fY/36P0C5GdgjeLLQSshYBwmUNFCIgOMZ40oYzDPUEImocCGbFREspJGsqH2Yc70
+R/efb+73nXPu+c7cvqXeGh+v5u+KivDluDYvd2+dXZO98emaYkI0oyIirpgw4IWC
+jQhbbXqDgog4gqRoEogkSUk6iChZpiEDEAOh2mZ0EsczgAMIUaI6lkVJpjAvS4hB
+OkgJDCvSKkNCpEBoCVkx5WBLvkUx2VRZmaR4BEhZFiRJxci8zNCkCEQBIAh5yOtY
+SQaCgFRirtnqYajmRMGKYxSz2lMv+gV7/4N/7Ft1DoFOJmWaBiIiocDKgBVkHjEs
+LyAMdSyiAeJpgZcpEtI6UWRoiFTnUKIg5nnALfi2P5KTJBIhSYAyo+MRBWRB5Dha
+oAVR3ZWjeA/Qii0mIQ+raNpgEoxEqZZQWw5Fwp5UPWv8dxyTo9hy7eKjffItZptZ
+MhvVYa7Nlm+N85BtRfkedAEW9f/q6EXFhNQcVYYDW6yK2UTEUSpSsikeYYplIAco
+hiG1BC7MVyxYr3gQLNRxpHo872CHJ30AVfuAEhHCgBEAEHWIlnlB5CmdJHMYSSKU
+1MLwOsxwIgkgTUEaYAkADrKMJ2UrftNkVrU51aeQo2palRyTYLNbMFF6vjf7SY2X
+j2bxoic8H0zjs8Tv8bdrOuOn6TgQMze8fVnj+ouRfe7agxGNz5xL+ob7oyE4/r1d
+eYkhYWHuC3XJpdNlI2TxSMGljum21OzUV8fYaUO/2btwauXNHRPH9w1Xb7h+zJKc
+NOjQbvRbM7O3I6A1OHyn3b57pjzl/tjVgQhXxMQF5vzZyu7y6Fsli8pDqr6NzBpy
+ot/wnfiXy1Iy5z656QwPjZ/cfX3oUI1vFnvlqZLBpsAbV6s3kUW1Ls1p/xdn+wyR
+76Yf9OpKLfU+MXOiZg1k1taPifPO939sz+ueKvtqaM+Xsf47+l8K2rCc2f79z7cW
+o8SGB8sD9s9cA7uYQb32UOYbCVzUvjS723DYuW7Z80d6i5e4Q6NLCp99WPd5VD8d
+vP7obO21XzIL56e/qIjaPPnh6HxP5KbmwyE+SQPaMylk07ZzW0Lb69J61j1X3zrt
+uCRTN1Y3dLY0pY/fLZ3LONU1TGSMrMh96/L82QhXQHtvtrEnsMW4NYzVXjHG3j7Q
+bfrsYVXtydEpurNEdvxgj1hV6Z5vDb/TGby1/d7p4+NUAgEKPprdKTI1lXdP1pVF
+7p22t/96qnzlxOqlCf4ZsSlBgSmuLidKg8c+nTKlO8CR3xOT79cMVVgGXul1/tTy
+dfODNuVjDoy/5qu8HZ2F/fe7Ky7aEo6ONk66UuuzG+69EITKN/dVb/n7naptK/Z8
+sAr/eXvt667uv3xN/wAWQcXU
+=tzVq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/2knal
+
+==================================================================
