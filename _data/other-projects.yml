@@ -30,3 +30,16 @@
     - thing: FireBase
     - thing: Android Studio
 
+- name: Honesty
+  url: https://github.com/2knal/Honesty
+  code: https://github.com/2knal/Honesty
+  description: PWA cum ChatBot, that furnishes users with all the government sponsored policies, schemes and loans.
+  used:
+    - thing: Python
+    - thing: Flask
+    - thing: spacy
+    - thing: Dialogflow
+    - thing: TextLocal
+    - thing: nltk
+    - thing: doc2vec
+
