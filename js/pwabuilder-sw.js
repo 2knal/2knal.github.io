@@ -12,7 +12,7 @@ self.addEventListener('install', async event => {
     cache.addAll(staticAssets);
 });
 
-// called whenever fetxh function is called in the client side
+// called whenever fetch function is called in the client side
 self.addEventListener('fetch', event => { 
     console.log(event);
     const {request} = event;
