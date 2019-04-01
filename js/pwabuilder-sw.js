@@ -1,9 +1,6 @@
 const staticAssets = [
-    '.',
-    '../index.html',
     '../css/main.css',
-    '../js/main.js',
-    '../404.html'
+    './main.js'
 ];
 
 var mode; //used to keep a check whether we are online at this point of time or offline
