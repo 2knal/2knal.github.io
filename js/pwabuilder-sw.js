@@ -1,6 +1,7 @@
 const staticAssets = [
     '../css/main.css',
-    './main.js'
+    'main.js',
+    '../index.html'
 ];
 
 var mode; //used to keep a check whether we are online at this point of time or offline
@@ -10,11 +11,12 @@ self.addEventListener('install', async event => {
     // #caches are http caches provided by service worker check Application >Cache > Cache Storage
     const cache = await caches.open('static-def'); // stores the shell part
     cache.addAll(staticAssets);
+    console.log('installed');
 });
 
 // called whenever fetch function is called in the client side
 self.addEventListener('fetch', event => { 
-    console.log(event);
+    console.log(event, 'event');
     const {request} = event;
     const url = new URL(request.url);
     if(mode==false) //check if online or offline
