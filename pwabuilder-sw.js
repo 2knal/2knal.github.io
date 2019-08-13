@@ -1,12 +1,12 @@
 const staticAssets = [
-    '../css/main.css',
-    '../favicon',
-    '../fonts',
-    '../img',
-    '../_scss',
+    './css/main.css',
+    './favicon',
+    './fonts',
+    './img',
+    './_scss',
     'main.js',
-    '../index.html',
-    '../404.html'
+    './index.html',
+    './404.html'
 ];
 
 var mode; //used to keep a check whether we are online at this point of time or offline
@@ -35,7 +35,6 @@ self.addEventListener('fetch', event => {
             event.respondWith(networkFirst(request)); // for outside urls do not check cache 
         }
     }
-
 });
 
 self.addEventListener('message', function(event){

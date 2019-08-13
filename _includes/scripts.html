@@ -2,13 +2,12 @@
 <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
 <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/pwabuilder-sw.js" type="text/javascript" charset="utf-8"></script>
+
 <script>
-        if ("serviceWorker" in navigator) {
-            if ('serviceWorker' in navigator) {
-                    window.addEventListener('load', () => {
-                        navigator.serviceWorker.register('js/pwabuilder-sw.js');
-                        console.log('Please?');
-                });
-            }
-        }
+    if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('../pwabuilder-sw.js');
+                console.log('Please?');
+        });
+    }
 </script>

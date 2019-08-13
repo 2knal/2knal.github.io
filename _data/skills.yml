@@ -4,10 +4,11 @@ languages:
   - item: HTML & CSS
   - item: JavaScript 
   - item: Java
+  - item: Node
 
 frameworks:
   - item: React
-  # - item: Node
+  - item: Express
   - item: Django
 
 tools:
