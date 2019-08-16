@@ -9,7 +9,7 @@ languages:
 frameworks:
   - item: React
   - item: Express
-  - item: Django
+  - item: Flask
 
 tools:
   - item: Bash
