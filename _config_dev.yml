@@ -10,10 +10,10 @@ logo: https://brittanychiang.com/img/emojis/technologist.png
 social:
   - title: email
     url: mailto:kunal.sonawane@somaiya.edu
-  # - title: twitter
-  #   url: https://twitter.com/2kunalsonawane
-  # - title: medium
-  #   url: https://medium.com/@thelegitlazyguy
+  - title: twitter
+    url: https://twitter.com/2kunalsonawane
+  - title: medium
+    url: https://medium.com/@2knal
   - title: codechef
     url: https://www.codechef.com/users/kunal_2
   - title: github
