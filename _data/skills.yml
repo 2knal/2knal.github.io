@@ -1,10 +1,8 @@
 languages:
   - item: Python
   - item: C
-  - item: HTML & CSS
   - item: JavaScript 
   - item: Java
-  - item: Node
 
 frameworks:
   - item: React
@@ -14,6 +12,15 @@ frameworks:
 tools:
   - item: Bash
   - item: Git & Github
+  - item: Docker
+  
 cs:
   - item: Data Structures
   - item: Algorithms
+  - item: OOP
+
+interests:
+  - item: Machine Learning
+  - item: Natural Language Processing
+  - item: Open source
+

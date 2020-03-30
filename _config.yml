@@ -11,7 +11,7 @@ social:
   - title: email
     url: mailto:kunal.sonawane@somaiya.edu
   - title: twitter
-    url: https://twitter.com/2kunalsonawane
+    url: https://twitter.com/2knal
   - title: medium
     url: https://medium.com/@2knal
   - title: CodeChef
@@ -19,7 +19,7 @@ social:
   - title: github
     url: https://github.com/2knal
   - title: linkedin
-    url: https://www.linkedin.com/in/kunal-sonawane-a3b397113/
+    url: https://www.linkedin.com/in/2knal
 
 # Build settings
 markdown: kramdown

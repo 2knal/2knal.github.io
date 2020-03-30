@@ -1,3 +1,11 @@
+- name: Visualize
+  url: https://visualize-regression.surge.sh/
+  code: #
+  description: A web UI to play around with regression algorithms and visualize the training process.
+  used:
+    - thing: p5.js
+    - thing: TFJS
+
 - name: ConnectClub
   url: https://connectclub.in
   code: #
