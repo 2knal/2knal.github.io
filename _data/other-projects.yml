@@ -1,6 +1,15 @@
+- name: random-proxies
+  url: https://github.com/2knal/random_proxies
+  code: https://github.com/2knal/random_proxies
+  description: Generate a proxy server IP on the fly, with given protocol, country and standard to facilitate web surfing or in general for scraping projects.
+  used:
+    - thing: requests
+    - thing: scraping
+    - thing: proxies
+
 - name: Visualize
   url: https://visualize-regression.surge.sh/
-  code: #
+  code: https://github.com/2knal/visualize
   description: A web UI to play around with regression algorithms and visualize the training process.
   used:
     - thing: p5.js
