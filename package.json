@@ -1,7 +1,7 @@
 {
   "name": "2knal.github.io",
   "version": "0.0.0",
-  "description": " A normal guy, with a knack for Computer Programming",
+  "description": "Personal Website",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",

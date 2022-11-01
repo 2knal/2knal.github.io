@@ -1,12 +1,10 @@
 # Site settings
 name: Kunal Sonawane
 title: Kunal Sonawane | Student Developer
-description: A normal guy, with a knack for Computer Programming
+description: Personal Website
 url: https://2knal.github.io/
 baseurl: ""
 email: 2kunalsonawane@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
 social:
   - title: email
     url: mailto:2kunalsonawane@gmail.com
