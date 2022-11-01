@@ -13,12 +13,10 @@ self.addEventListener('install', async event => {
     // #caches are http caches provided by service worker check Application >Cache > Cache Storage
     const cache = await caches.open('static-def'); // stores the shell part
     cache.addAll(staticAssets);
-    console.log('IIIIIIInstalled')
 });
 
 // called whenever fetxh function is called in the client side
 self.addEventListener('fetch', event => {
-    console.log(event);
     const {request} = event;
     const url = new URL(request.url);
     if(mode==false) //check if online or offline
@@ -38,7 +36,6 @@ self.addEventListener('message', function(event){
         mode=false
     else
         mode=true
-    console.log("message: "+mode);
 });
 
 async function cacheData(request) {

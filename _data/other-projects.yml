@@ -7,6 +7,22 @@
     - thing: scraping
     - thing: proxies
 
+- name: medium-for-all
+  url: https://github.com/2knal/medium-for-all
+  code: https://github.com/2knal/medium-for-all
+  description: Chrome extension to access private articles on medium without having to open them in incognito mode.
+  used:
+    - thing: random_proxies
+    - thing: Chrome Extension
+
+- name: BulliesEye
+  url: https://github.com/mihir2510/BulliesEye
+  code: https://github.com/mihir2510/BulliesEye
+  description: BulliesEye is a collection of multiple systems - an online admin dashboard, a couple of chrome extensions, a Telegram bot, and a Twitter scraper. All these are designed to detect and prevent Cyberbullying.
+  used:
+    - thing: Chatbot
+    - thing: NLP
+
 - name: Visualize
   url: https://visualize-regression.surge.sh/
   code: https://github.com/2knal/visualize
