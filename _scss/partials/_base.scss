@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
 html {
   box-sizing: border-box;
 }
@@ -18,14 +20,23 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: $white;
+  // background-color: $white;
+  background: #c7d2fe;
+  background: -webkit-linear-gradient(to top, #c7d2fe,#fecaca,#fff);
+  background: linear-gradient(to top, #c7d2fe,#fecaca,#fff);  
+
   color: $dark-grey;
-  font-family: $Apercu;
+  // font-family: $Apercu;
+  font-family: $Inter;
   line-height: 1.5;
   width: 100%;
 
   &.night {
-    background-color: $night;
+    // background-color: $night;
+    background: #03001e;
+    background: -webkit-linear-gradient(to top, #b90355, #7303c0, #03001e);
+    background: linear-gradient(to top, #b90355, #7303c0, #03001e);
+      
     color: $slate;
     ::selection {
       color: $black;
