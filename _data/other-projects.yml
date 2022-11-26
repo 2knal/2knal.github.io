@@ -39,6 +39,15 @@
     - thing: MERN Stack
     - thing: AWS
 
+- name: WheresThat
+  url: https://github.com/2knal/WheresThat
+  code: https://github.com/2knal/WheresThat
+  description: This is a conceptual web model for implementing pathfinding algorithms and visualizing their real life use cases.
+  used:
+    - thing: p5.js
+    - thing: path-finding
+    - thing: A*
+
 - name: Honesty
   url: https://github.com/2knal/Honesty
   code: https://github.com/2knal/Honesty
