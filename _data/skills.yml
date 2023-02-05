@@ -5,7 +5,7 @@ languages:
   - item: C#
 
 frameworks:
-  - item: Angukar
+  - item: Angular
   - item: React
   - item: Flask
   - item: Express
