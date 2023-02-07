@@ -24,10 +24,11 @@ export default function Menu({ onMenuOptionSelect }: IMenuProps) {
 
   return (
     <nav>
-      <ul className="menu bg-cream-100 font-clash-display font-medium flex justify-center items-center gap-3 w-64 h-12 m-auto mt-5 rounded-full dark:bg-purple-700">
+      <ul className="menu bg-cream-100 font-clash-display font-medium flex justify-center items-center w-72 xs:w-80 gap-1 xs:gap-3 h-12 m-auto mt-5 rounded-full dark:bg-purple-700">
         <li onClick={handleOptionSelect} id="home" className={liStyle + " active"}>Home</li>
         <li onClick={handleOptionSelect} id="work" className={liStyle}>Work</li>
         <li onClick={handleOptionSelect} id="projects" className={liStyle}>Projects</li>
+        <li id="old-site" className={liStyle}><a href="http://2knal.github.io/old" target="_blank" rel="noreferrer">v0.0</a></li>
       </ul>
     </nav>
   );
