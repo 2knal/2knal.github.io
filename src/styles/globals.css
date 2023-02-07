@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .active {
+    @apply rounded-full bg-purple-100 dark:bg-purple-800
+  }
+
+  .tag {
+    @apply rounded-lg ring-1 px-2 cursor-pointer ring-purple-700/30 dark:ring-cream-100/30
+  }
+}
