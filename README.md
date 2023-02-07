@@ -1,19 +1,19 @@
-## Personal Website
+# Kunal's space on the internet
 
-## Dependencies
 
-- [Gulp](https://gulpjs.com/)
 
-## Getting Started
+### Inspiration
+- This website design is heavily inspired by [anahoward.me](https://anahoward.me) and [saku.zone](https://saku.zone)
 
-1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
-2.  `nvm install 11.15.0`
-3.  `rm -rf node_modules; rm package-lock.json; npm cache clear --force`
-4.  `npm i`
-5.  `npm start`
+### TODO
 
-## TODO
-- [ ] Port to NextJS
-- [ ] Deploy on Vercel
+- [ ] Add better animations
+  - [ ] Some anime character sliding down like Naruto
+  - [ ] Probably some voice line like "Dattebayo!" during above animation
+  - [ ] Redo some animations using framer-motion
+- [ ] Add currently listening and recent songs to Spotify grid cell
+- [ ] Get Work and Projects data via a config file
+- [ ] Convert the app into a PWA
+- [ ] Refactor code
 
-Inspired By [repo](https://github.com/bchiang7/v3)
+> This project is bootstrapped using `create-t3-app`.
