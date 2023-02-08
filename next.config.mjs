@@ -5,8 +5,15 @@
  */
 !process.env.SKIP_ENV_VALIDATION && (await import("./src/env/server.mjs"));
 
+import WithPWA from "next-pwa";
+const withPWA = WithPWA({
+  dest: "public",
+  register: true,
+  skipWaiting: true,
+});
+
 /** @type {import("next").NextConfig} */
-const config = {
+const config = withPWA({
   reactStrictMode: true,
   /* If trying out the experimental appDir, comment the i18n config out
    * @see https://github.com/vercel/next.js/issues/41980 */
@@ -14,5 +21,5 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
-};
+});
 export default config;

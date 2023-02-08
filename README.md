@@ -13,7 +13,7 @@
   - [ ] Redo some animations using framer-motion
 - [ ] Add currently listening and recent songs to Spotify grid cell
 - [ ] Get Work and Projects data via a config file
-- [ ] Convert the app into a PWA
+- [x] Convert the app into a PWA
 - [ ] Refactor code
 
 > This project is bootstrapped using `create-t3-app`.
