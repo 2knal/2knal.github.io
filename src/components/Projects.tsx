@@ -20,7 +20,7 @@ export default function Projects () {
     {
       header: 'BulliesEye',
       description: 'BulliesEye is a collection of multiple systems - an online admin dashboard, a couple of chrome extensions, a Telegram bot, and a Twitter scraper. All these are designed to detect and prevent Cyberbullying.',
-      link: '',
+      link: 'https://github.com/mihir2510/BulliesEye',
       stack: ['Chatbot', 'NLP']
     },
     {
@@ -38,7 +38,7 @@ export default function Projects () {
     {
       header: 'WheresThat',
       description: 'This is a conceptual web model for implementing pathfinding algorithms and visualizing their real life use cases.',
-      link: 'https://connectclub.in/',
+      link: 'https://github.com/2knal/WheresThat',
       stack: ['p5.js', 'A*', 'path-finding']
     },
     {

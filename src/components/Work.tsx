@@ -15,7 +15,7 @@ export default function Work() {
     {
       period: 'January 2022 - January 2023',
       title: 'Technology Assocate - Morgan Stanley',
-      description: 'Developed chatbots on Microsoft teams to automate incident analysis and reduce 0.5 man-hours of daily effort. Published comprehensive dashboards on Incident metrics and reporting..',
+      description: 'Developed chatbots on Microsoft teams to automate incident analysis and reduce 0.5 man-hours of daily effort. Published comprehensive dashboards on Incident metrics and reporting.',
       tag: 'Full-time',
       stack: ['Python', 'Angular', 'Tableau']
     },
