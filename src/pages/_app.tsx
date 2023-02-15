@@ -1,16 +1,19 @@
 import { ThemeProvider } from "next-themes";
 import { type AppType } from "next/dist/shared/lib/utils";
+import ThemeHydration from "../components/ThemeHydration";
 
 import "../styles/globals.css";
 
 const MyApp: AppType = ({ Component, pageProps }) => {
 
   return (
-    <ThemeProvider 
-      attribute="class"
-      enableSystem={false}>
-      <Component {...pageProps} />
-    </ThemeProvider>
+    <ThemeHydration>
+      <ThemeProvider 
+        attribute="class"
+        enableSystem={false}>
+        <Component {...pageProps} />
+      </ThemeProvider>
+    </ThemeHydration>
   );
 };
 

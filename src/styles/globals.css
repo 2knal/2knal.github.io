@@ -2,6 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  @font-face {
+    font-family: "Satoshi";
+    src: url("/assets/fonts/Satoshi/Fonts/Satoshi-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Satoshi";
+    src: url("/assets/fonts/Satoshi/Fonts/Satoshi-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Clash Display";
+    src: url("/assets/fonts/Clash-Display/Fonts/ClashDisplay-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Clash Display";
+    src: url("/assets/fonts/Clash-Display/Fonts/ClashDisplay-Semibold.woff2") format("woff2");
+    font-weight: 600;
+    font-display: swap;
+  }
+}
+
 @layer components {
   .active {
     @apply rounded-full bg-purple-100 dark:bg-purple-800
