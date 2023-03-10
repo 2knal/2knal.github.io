@@ -82,7 +82,7 @@ jobs:
       - name: Set environment variables
         run: echo "NEXT_PUBLIC_GOOGLE_ANALYTICS=$NEXT_PUBLIC_GOOGLE_ANALYTICS" >> .env
         env:
-          API_URL: ${{ secrets.NEXT_PUBLIC_GOOGLE_ANALYTICS }}
+          NEXT_PUBLIC_GOOGLE_ANALYTICS: ${{ secrets.NEXT_PUBLIC_GOOGLE_ANALYTICS }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1        
