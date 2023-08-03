@@ -3,7 +3,7 @@ import WorkItem from "./WorkItem";
 
 export default function Work() {
 
-  const resumeLink = 'https://tinyurl.com/2knal-resume';
+  const resumeLink = 'https://drive.google.com/file/d/14Pvpt1xrp8VClxWegqPCzm7t1jj3tDvu/view?usp=drive_linkhttps://drive.google.com/file/d/14Pvpt1xrp8VClxWegqPCzm7t1jj3tDvu/view?usp=drive_link';
   const workItems: IWork[] = [
     {
       period: 'January 2023 - Present',
