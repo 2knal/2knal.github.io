@@ -3,7 +3,7 @@ import WorkItem from "./WorkItem";
 
 export default function Work() {
 
-  const resumeLink = 'https://drive.google.com/file/d/1nUYzn-wXl3itDinjO0KN-vtb3EBY81if/view?usp=sharing';
+  const resumeLink = 'https://drive.google.com/file/d/12POlihiNtIiDeDVVaaqZtsUD1PyUg_Sk/view?usp=sharing';
   const workItems: IWork[] = [
     {
       period: 'January 2023 - Present',
