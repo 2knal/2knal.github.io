@@ -6,7 +6,7 @@ export default function Work() {
   const resumeLink = 'https://drive.google.com/file/d/12POlihiNtIiDeDVVaaqZtsUD1PyUg_Sk/view?usp=sharing';
   const workItems: IWork[] = [
     {
-      period: 'January 2023 - Present',
+      period: 'January 2023 - August 2023',
       title: 'Senior Assocate - Morgan Stanley',
       description: 'Automating workflows by creating web applications/portals. Enhancing chatbots, publishing tableau dashboards.',
       tag: 'Full-time',
